@@ -1,9 +1,7 @@
 package ${package};
 
-import java.io.*;
-import java.net.*;
 import java.util.*;
-import java.util.function.*;
+import java.util.stream.*;
 
 public class Main {
 
